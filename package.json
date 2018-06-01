@@ -1,0 +1,27 @@
+{
+  "name": "shaping-sample",
+  "version": "1.0.0",
+  "description": "\"A simple Shaping Typscript Sample\"",
+  "main": "main.js",
+  "dependencies": {
+    "angular-ts-math": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveJobsAcademy/shaping.git"
+  },
+  "keywords": [
+    "\"Typescrip",
+    "Shape\""
+  ],
+  "author": "Carlo Leonardi <carloleonardi83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteveJobsAcademy/shaping/issues"
+  },
+  "homepage": "https://github.com/SteveJobsAcademy/shaping#readme"
+}
